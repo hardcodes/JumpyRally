@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset01-18x18#256x256" tilewidth="18" tileheight="18">
+  <image source="tileset01-18x18#256x256.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="197" name="sprites" tilewidth="16" tileheight="16">
+  <image source="sprites-tileset.png" width="192" height="64"/>
+ </tileset>
+ <layer name="background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztkasVADAQg3JtfT/7D9uYWyEKgUDyKEnDTLNMhXybY655QU93tqc729Od/OUvf/nLX/7yV/qtDBZF
+  </data>
+ </layer>
+ <layer name="maze" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTZWBgkANieSBWAGJZOvFBNL2B7Ki9o/YykJ5mqWUvtcFg9C+xZuAC+PQP9nCmh72kxhU+s3GZQ6x/iXXDcMlHtLIXV1zQSnyg/TsQ9tK7fQPjAwCvYBJp
+  </data>
+ </layer>
+ <layer name="sprites" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCQ4OtAOGAUkg2M42ANlziggD1yhghnXqWDGcAZX0fiE0jk2+WN49OEzb6DzFAC/FAsC
+  </data>
+ </layer>
+</map>

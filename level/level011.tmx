@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset02-18x18#256x256" tilewidth="18" tileheight="18">
+  <image source="tileset02-18x18#256x256.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="197" name="sprites-tileset" tilewidth="16" tileheight="16">
+  <image source="sprites-tileset.png" width="192" height="64"/>
+ </tileset>
+ <layer name="background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg4wEdnDAMydMYwoEVnDAMWdMYw4EZnDAMhdMYwkERnDAMFdMYwUEdnDAM9dMYwMIvOGAZW0BnDwDY6Yxg4Qmc8au/IsHcgAADY4faJ
+  </data>
+ </layer>
+ <layer name="maze" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzFVrkNQjEMdcFNxQ0VBTUTQI8YADEAYgDEHMAAHD1Hz7Ucz1IigkkC/xPgSU+57LzYsaIUiagElsGK6FffGNc8/jbbOtgAC/R7sGb7D7qs2YlgnwRTYBrMgFkwF0OXNfsx/D4Faw5/rNlSms1A+0W5gzHd66obaM93wLFGqatQ4Fj5jkPHo+Hal2MNdb8SvnvjWOW7kYixT1RwPdvuNy/OYeYrL2wT9JxH6S99uJ6/lWcTMlesyXm2nTM0zLz53ufei30WL9Zt/jpu1/s8AwfkrqUVuAY3Hl323zrW5Ps8Uu1S9WdqLM++A/fgQcxrO+k/EnasOTXGE9VuVX9unF3jCJ7AM3gBr8aatpP+E3oEaxbJ/R/RrZy32drmfP+cGzVxJG8=
+  </data>
+ </layer>
+ <layer name="sprites" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF+MAxAvxRAAFXaWQutvCmVhwMl7ikVRjRMuwpBbRKb9QAuMKIUNgNlrBFB/RwFyE7LtBY/2AGxIY/uemOHLMpNfMolcwhpP86heZTCgB3DhXr
+  </data>
+ </layer>
+</map>
